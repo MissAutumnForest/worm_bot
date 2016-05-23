@@ -1,6 +1,8 @@
 # worm_bot
 A robot intended to carry a worm for wireless sniffing and other fun stuffs
 
+**This is far from done; right now it is just controlling the servos at a low level**
+
 ## Board Setup
 I am using an Arduino Uno for this project
 
